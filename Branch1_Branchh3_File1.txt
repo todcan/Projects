@@ -1,2 +1,3 @@
 Branch1 changes...
 New line from Branch1
+New line from Branch2
