@@ -3,3 +3,4 @@ Branch3 changes...
 New line from Branch1
 Ok fine line
 Branch3 add new changes
+New line from Branch1
